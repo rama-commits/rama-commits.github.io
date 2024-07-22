@@ -2,7 +2,7 @@
 ## This is an informational website about smelling good!
 
 
-In this website you will find information about various fragrances.
+In this website you will find information about various fragrances and helpful tips about smelling good.
 
 > A wise man once said, "Smelling good is half the battle."
 
