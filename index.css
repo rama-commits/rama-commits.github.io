@@ -2,8 +2,15 @@
   color: #2474C9;
 }
 
+.darkgreen { 
+  color: #1B8429
+}
 .center { 
 
   text-align: center;
 
 } 
+
+.darkred{ 
+  background-color: rgb(169, 32, 32);
+}
