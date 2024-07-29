@@ -1,16 +1,19 @@
 .darkblue {
-  color: #2474C9;
+    color: #2474c9;
 }
 
-.darkgreen { 
-  color: #1B8429
+.darkgreen {
+    color: #1b8429;
 }
-.center { 
+.center {
+    text-align: center;
+}
 
-  text-align: center;
+.darkred {
+    background-color: rgb(169, 32, 32);
+}
 
-} 
-
-.darkred{ 
-  background-color: rgb(169, 32, 32);
+.item-h:hover {
+    background-color: #035d1e;
+    transition: background-color 0.5s;
 }

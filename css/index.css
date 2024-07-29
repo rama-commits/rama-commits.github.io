@@ -1,13 +1,12 @@
 .darkblue {
- color: #2474C9;
-
+    color: #2474c9;
 }
 
 body {
-  background-color: lightblue;
+    background-color: lightblue;
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+    color: navy;
+    margin-left: 20px;
 }
