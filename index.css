@@ -15,5 +15,16 @@
 
 .item-h:hover {
     background-color: #035d1e;
+    text-decoration: inherit;
+    color: inherit;
     transition: background-color 0.5s;
+}
+
+.styling-none {
+    text-decoration: none;
+    color: inherit;
+}
+.styling-none:hover {
+    text-decoration: none;
+    color: inherit;
 }
